@@ -1,10 +1,6 @@
 # 🧠 Sentiment Analysis of TikTok Comments (March–April 2025)
 
-## 🎯 Project Goal
-This project demonstrates **NLP (Natural Language Processing)** and **text analytics** skills by analyzing sentiments from 50 TikTok-related comments.  
-Using Python and TextBlob, we classify each comment as **Positive**, **Negative**, or **Neutral**, and visualize the sentiment distribution.
 
----
 
 ## 🧩 Overview
 - **Objective:** Analyze user-generated content to understand audience sentiment.  
